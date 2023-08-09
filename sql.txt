@@ -1,5 +1,7 @@
 code is updated by someone
 
+again updated by vilas giri
+
 select * from Staging2.dbo.pgpending where ObjId=9333535 
 select * from Staging2.dbo.cdpending where pageid=9333535  and  status >99  order by Sequence,layer,Position,ObjId
 
