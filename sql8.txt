@@ -13,7 +13,7 @@ select * from Staging2.dbo.libAudios1 where objid=5475789
 
 select * from Staging2.dbo.Verticals where VertId=5475032 
 
-dfgdfdgdf
+
 
 select * from Staging2.dbo.pgpending where ObjId=9333535 
 
@@ -91,7 +91,7 @@ https://images.freeimages.com/images/large-previews/2e8/shikra-female-1641968.jp
 
 https://moneyoscar.com/stories/10-low-stress-jobs-that-pay-well
 
-dadsdadadassadasas
+
 
 
 

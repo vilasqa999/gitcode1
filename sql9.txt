@@ -13,7 +13,7 @@ select * from Staging2.dbo.libAudios1 where objid=5475789
 
 select * from Staging2.dbo.Verticals where VertId=5475032 
 
-dfgdfdgdf
+asas
 
 select * from Staging2.dbo.pgpending where ObjId=9333535 
 
@@ -91,7 +91,7 @@ https://images.freeimages.com/images/large-previews/2e8/shikra-female-1641968.jp
 
 https://moneyoscar.com/stories/10-low-stress-jobs-that-pay-well
 
-dadsdadadassadasas
+
 
 
 
@@ -162,5 +162,6 @@ When you refresh https://visualstories.com/ai/text-to-image page giving "This vi
 https://aiart.visualstories.com/aimedia/19415868/dlimg/19441584/19441584-1.png
 https://aiart.visualstories.com/aimedia/19415868/dlimg/19441584/19441584-1th.png
 
+tttt
 
 https://www.visualstories.dev/api/v1/14390506-prabhasakshi-14390515-11/get?url=//www.prabhasakshi.com/web-stories/storylists.xml
