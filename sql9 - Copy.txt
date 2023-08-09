@@ -12,7 +12,7 @@ select * from Staging2.dbo.libvideos1 where objid=5475154
 select * from Staging2.dbo.libAudios1 where objid=5475789
 
 select * from Staging2.dbo.Verticals where VertId=5475032 
-
+adad
 asas
 
 select * from Staging2.dbo.pgpending where ObjId=9333535 
